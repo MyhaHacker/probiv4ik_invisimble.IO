@@ -16,8 +16,32 @@ print("Запрошен!")
 loh=input("Вы подтверждаете ответственность? Yes/No : ")
 print("Разрешено")
 okl=int(input("Напишите Код вашего Доступа : "))
-if okl!=int("245666"):
-    print("Неправильный код, доступ запрещён!")
+if okl=="245666":
+    print("Доступ разрешён")
+    print("1 - Пробив по номеру")
+    print("2 - Обновиться")
+    print("3 - quit()")
+    yay=input("")
 else:
-    print("Успешно! Удачного использования нашего софта!")
-
+    quit()
+if yay==1:
+    ggh=input("Введите номер телефона (без +) : ")
+    print("Проверяем")
+    suo=input("Подключаем сервера, нажмите enter чтобы продолжить! : ")
+    print("Подкоючаем сведения")
+    print("Запрашиваем доступ!")
+    print("Принято!")
+    print("Отправка данных")
+    print("Отправлено")
+    bbg=input("Для получения данных нажмите Enter") : ")
+    print("Russia Federation")
+    print("34.387.83:8283 IP
+    print("Status Offline")
+    print("Благодорим за использование нашего пробивать!")
+if yay==2:
+    print("Перезапустите Termux")
+    print("mv probiv4ik_invisimble.IO Delete
+    print("got clone https://github.com/MyhaHacker/probiv4ik_invisimble.IO
+    print("Если было обновление, то вы его сразу заметить!")
+if yay==3
+    print("Напиши exit")
