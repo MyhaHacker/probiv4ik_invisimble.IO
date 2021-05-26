@@ -35,7 +35,7 @@ if yay==1:
     print("Отправлено")
     bbg=input("Для получения данных нажмите Enter : ")
     print("Russia Federation")
-    print("34.387.83:8283 IP
+    print("34.387.83:8283")
     print("Status Offline")
     print("Благодорим за использование нашего пробивать!")
 if yay==2:
