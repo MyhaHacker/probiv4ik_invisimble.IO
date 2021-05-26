@@ -24,7 +24,7 @@ if okl=="245666":
     yay=input("")
 else:
     quit()
-if yay==1:
+if yay=="1":
     ggh=input("Введите номер телефона (без +) : ")
     print("Проверяем")
     suo=input("Подключаем сервера, нажмите enter чтобы продолжить! : ")
@@ -38,10 +38,10 @@ if yay==1:
     print("34.387.83:8283")
     print("Status Offline")
     print("Благодорим за использование нашего пробивать!")
-if yay==2:
+if yay=="2":
     print("Перезапустите Termux")
     print("mv probiv4ik_invisimble.IO Delete")
     print("got clone https://github.com/MyhaHacker/probiv4ik_invisimble.IO")
     print("Если было обновление, то вы его сразу заметить!")
-if yay==3
+if yay=="3"
     print("Напиши exit")
