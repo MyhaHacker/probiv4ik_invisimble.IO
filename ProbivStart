@@ -41,7 +41,7 @@ if yay=="1":
 if yay=="2":
     print("Перезапустите Termux")
     print("mv probiv4ik_invisimble.IO Delete")
-    print("got clone https://github.com/MyhaHacker/probiv4ik_invisimble.IO")
+    print("git clone https://github.com/MyhaHacker/probiv4ik_invisimble.IO")
     print("Если было обновление, то вы его сразу заметить!")
-if yay=="3"
+if yay=="3":
     print("Напиши exit")
