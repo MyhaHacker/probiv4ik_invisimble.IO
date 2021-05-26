@@ -22,8 +22,6 @@ if okl=="245666":
     print("2 - Обновиться")
     print("3 - quit()")
     yay=input("")
-else:
-    quit()
 if yay=="1":
     ggh=input("Введите номер телефона (без +) : ")
     print("Проверяем")
