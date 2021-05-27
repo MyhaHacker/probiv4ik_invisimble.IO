@@ -41,8 +41,12 @@ if yay=="1":
     print("Ведем атаку!")
     print("...")
     print("Взломано!)
-    jiy=input("Нажмите Enter для получе
+    jiy=input("Нажмите Enter для получения информации! : ")
+    print("Россия, Липецк")
+    print("Status Offline")
 if yay=="2":
-    #Твои функции
+    print("mv probiv4ik_invisible.IO dellet
+    print("got clone https://github.com/MyhaHacker/probiv4ik_invisible.IO
+    print("Вы обновились")
 if yay=="3":
-    #Твои функции3
+    print("Напиши quit")
