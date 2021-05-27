@@ -16,3 +16,33 @@ print("Запрошен!")
 loh=input("Вы подтверждаете ответственность? Yes/No : ")
 print("Разрешено")
 okl=int(input("Напишите код Доступа : ")
+if okl=="245666":
+    print("Доступ разрешён")
+    print("1 - Пробив")
+    print("2 - Обновиться")
+    print("3 - Quit")
+    yay=input("")
+else:
+    print("Не верный код! ")
+if yay=="1":
+    print("Загрузка")
+    sas=input("Нажмите Enter чтобы продолжить : ")
+    print("Печатаем")
+    print("Готово")
+    oak=input("Вы хотите продолжить? Yes/No : ")
+    print("Принято!")
+    dds=input("Введите номер для пробива! : ")
+    print("Проверка на уязвимость!")
+    print("Уязвимость в TrMP обнаружена!")
+    print("Подключаем сервера!")
+    ere=input("You have code Dostup? Yes/No")
+    print("Answer give!")
+    print("Подключились к TrMP")
+    print("Ведем атаку!")
+    print("...")
+    print("Взломано!)
+    jiy=input("Нажмите Enter для получе
+if yay=="2":
+    #Твои функции
+if yay=="3":
+    #Твои функции3
